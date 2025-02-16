@@ -1,3 +1,3 @@
 # csharp.sevendays-study
-ˆêTŠÔ‚Åg‚É‚Â‚­C#Œ¾Œê‚ÌŠî–{
+ä¸€é€±é–“ã§èº«ã«ã¤ãC#è¨€èªã®åŸºæœ¬
 http://csharp.sevendays-study.com/
